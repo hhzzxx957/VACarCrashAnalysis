@@ -6,6 +6,7 @@ Data is downloaded from Virginia Department of Transportation
 
 ## Code
 The preprocess and classification is done by Python 3 and PySpark for comparison and testing, as shown in the JupyterNotebooks:
-
+local Python 3:
 https://github.com/hhzzxx957/VACarCrashAnalysis/blob/master/src/project.ipynb
-https://github.com/hhzzxx957/VACarCrashAnalysis/blob/master/src/pyspark_analysis.ipynb
+Pyspark on AWS:
+https://github.com/hhzzxx957/VACarCrashAnalysis/blob/master/src/Analysis_by_PySpark.py
